@@ -73,15 +73,15 @@ common:
     url: https://autotef.readme.io/
   - type: Documentation
     url: https://docs.pagar.me/docs
-  - type: SignUp
+  - type: Signup
     url: https://accounts.openbank.stone.com.br/
   - type: GitHubOrganization
     url: https://github.com/stone-payments
-  - type: SDK
+  - type: SDKs
     url: https://github.com/stone-payments/merchant-go-stone-openbank
-  - type: SDK
+  - type: SDKs
     url: https://github.com/stone-payments/demo-sdk-android
-  - type: SDK
+  - type: SDKs
     url: https://github.com/stone-payments/pos-mamba-sdk
   - type: Blog
     url: https://blog.stone.co/
